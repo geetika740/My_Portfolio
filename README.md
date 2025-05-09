@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio website! This site showcases my projects, certifications, skills, and resume. It is built using HTML, CSS, and a bit of JavaScript for interactivity.
 
-## 🔗 Live Preview
-👉 [View Live Website](https://yourusername.github.io/portfolio-repo-name/)
-
 ## 📂 Sections Included
 - **About Me** – Brief background and interests
 - **Projects** – Descriptions, links, and live demos of my major projects
